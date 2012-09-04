@@ -1,0 +1,21 @@
+<project>
+ <properties autorotation="0" fps="60" scaleMode="0" iosDevice="0" xcodeVersion="0" packageName="com.yourdomain.yourapp" logicalHeight="480" logicalWidth="320" retinaDisplay="0" assetsOnly="0" orientation="0" architecture="0">
+  <imageScales/>
+ </properties>
+ <file source="sceneInGame.lua"/>
+ <file source="scenemanager.lua"/>
+ <file source="nextBtn.png"/>
+ <file source="overlay.png"/>
+ <file source="calibrib.ttf"/>
+ <file source="todo.txt"/>
+ <file source="resetBtn.png"/>
+ <folder name="map">
+  <file source="map2.lua"/>
+  <file source="map1.lua"/>
+ </folder>
+ <file source="gtween.lua"/>
+ <file source="char.png"/>
+ <file source="tilemap.png"/>
+ <file source="TileMap.lua"/>
+ <file source="main.lua"/>
+</project>
